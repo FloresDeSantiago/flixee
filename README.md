@@ -5,6 +5,8 @@ Flixee is an app that allows users to browse movies from the [The Movie Database
 Submitted by: **Aldo Flores De Santiago**
 
 Time spent: **2** hours spent in total
+
+
 ---
 
 ## Flix Part 1
